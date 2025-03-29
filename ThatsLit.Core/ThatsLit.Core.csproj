@@ -41,5 +41,6 @@
     <Reference Include="spt-singleplayer" HintPath="References\spt-singleplayer.dll" Private="false" />
     <Reference Include="Unity.Postprocessing.Runtime" HintPath="References\Unity.Postprocessing.Runtime.dll" Private="false" />
     <Reference Include="Unity.TextMeshPro" HintPath="References\Unity.TextMeshPro.dll" Private="false" />
+    <Reference Include="UnityEngine.UI" HintPath="References\UnityEngine.UI.dll" Private="false" />
   </ItemGroup>
 </Project>
