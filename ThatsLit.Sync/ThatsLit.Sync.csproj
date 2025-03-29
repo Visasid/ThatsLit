@@ -42,6 +42,6 @@
     <Reference Include="Unity.Postprocessing.Runtime" HintPath="References\Unity.Postprocessing.Runtime.dll" Private="false" />
     <Reference Include="Unity.TextMeshPro" HintPath="References\Unity.TextMeshPro.dll" Private="false" />
     <Reference Include="Fika.Core" HintPath="References\Fika.Core.dll" Private="false" />
-    <Reference Include="ThatsLitAPI" HintPath="References\Fika.Core.dll" Private="false" />
+    <Reference Include="ThatsLitAPI" HintPath="References\ThatsLit.Core.dll" Private="false" />
   </ItemGroup>
 </Project>
